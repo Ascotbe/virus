@@ -1,7 +1,7 @@
 
 记入键盘的一个C++程序:ghost:
 =
-[![Ascotb Keyboard](https://img.shields.io/badge/Ascotb-Keyboard-brightgreen.svg?style=plastic&logo=github)](https://github.com/Ascotbe/Keyboard-Recorder)
+[![Ascotb Keyboard](https://img.shields.io/badge/Ascotb-Keyboard-brightgreen.svg?style=plastic&logo=github)](https://github.com/Ascotbe/Hacker-program/Keyboard-Recorder)
 [![Ascotb Hexo](https://img.shields.io/badge/Ascotb-Hexo-brightgreen.svg?style=plastic&logo=github)](https://ascotbe.github.io/)
 
    V1.0:目前只支持数字，符号和字母

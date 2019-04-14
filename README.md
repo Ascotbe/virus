@@ -1,4 +1,4 @@
-<img src="https://github.com/Ascotbe/Hacker-program/blob/master/hacker.jpg" alt="Ascotb Hacker" />   
+<img src="https://github.com/Ascotbe/Hacker-program/blob/master/hacker.jpg" width="1200" alt="Ascotb Hacker" />   
 
 
 [![Ascotb Hacker](https://img.shields.io/badge/Ascotbe-Hacker-brightgreen.svg?style=plastic&logo=github)](https://github.com/Ascotbe/Hacker-program/Keyboard%20Recorder)

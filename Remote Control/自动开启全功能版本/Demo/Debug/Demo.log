@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Listen.cpp
+f:\新建文件夹\开机关机\demo\demo\listen.cpp(125): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+  Demo.vcxproj -> F:\新建文件夹\开机关机\Demo\Debug\Listen.exe
+  Demo.vcxproj -> F:\新建文件夹\开机关机\Demo\Debug\Listen.pdb (Partial PDB)

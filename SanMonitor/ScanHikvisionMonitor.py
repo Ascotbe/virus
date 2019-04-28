@@ -10,7 +10,7 @@ import time
 
 def Simulated_Login(url,password):
     #调用环境变量指定的Chrome浏览器创建浏览器对象
-    driver = webdriver.Chrome(executable_path = "C:\\Users\\zyc\\PycharmProjects\\untitled\\chromedriver.exe")
+    driver = webdriver.Chrome(executable_path = "C:\\Users\\chromedriver.exe")
     driver.set_window_size(1366, 768)
 
 
@@ -22,7 +22,7 @@ def Simulated_Login(url,password):
     #print(html_text)
     try:
         username="admin"
-        #password="xmytl@123"
+        #password="xxxxxx"
         # click()是模拟点击
         driver.find_element_by_id("username").clear()
 

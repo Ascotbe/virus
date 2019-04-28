@@ -15,6 +15,13 @@ Remote Control
 详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/tree/master/Remote%20Control/README.md)  
 
 
+
+Scan Mionitor
+-
+	  扫描指定网段监控是否存在弱口令
+	  
+详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/tree/master/ScanMionitor/README.md) 
+
 免责声明:
 -
       此代码只用作学习交流，如果您使用本项目表示同意该声明，如果触犯到法律请自行负责，与本人无关！！！！！

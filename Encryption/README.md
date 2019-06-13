@@ -3,16 +3,15 @@
      编译环境VS2017 X64
 	 
 	 
-演示视频：
--
-	 :lemon:详情演示见[demo.mp4](https://github.com/Ascotbe/Encryption/blob/master/demo.mp4)
 
+由于病毒破坏性很强后面具有破坏性的功能就不上传了，只上传了EXE文件。
+-
 	 
 使用方法：
 -
      clon https://github.com/Ascotbe/Hacker-program.git
 	 然后编译
-	 TOP：由于病毒破坏性很强后面具有破坏性的功能就不上传了，只上传了EXE文件。
+	 TOP：禁止做非法操作，仅供逆向师傅参考流程（无壳无内存加密）。
 	 目前实现功能：
 	 1.扫描硬盘文件
 	 2.修改EXE文件图标
@@ -26,3 +25,10 @@
 	 10.双击后后台运行不会跳出CMD窗口
 	 11.提升权限
 	 12.过DEP保护
+	 13.硬盘锁
+	 14.自删除
+	 
+
+	 
+	 
+:lemon:详情演示见[demo.mp4](https://github.com/Ascotbe/Hacker-program/blob/master/Encryption/demo.mp4)

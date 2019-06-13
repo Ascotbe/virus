@@ -28,7 +28,7 @@ Scan Mionitor
 
 Encryption
 -
-	  恶意程序
+	  勒索病毒
 	  
 详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/blob/master/Encryption/README.md) 
 

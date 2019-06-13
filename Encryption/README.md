@@ -1,11 +1,9 @@
-恶意程序
+加密病毒(勒索
 =
-     编译环境VS2017 X64
+     编译环境VS2019 X64
 	 
 	 
 
-由于病毒破坏性很强后面具有破坏性的功能就不上传了，只上传了EXE文件。
--
 	 
 使用方法：
 -
@@ -29,6 +27,7 @@
 	 14.自删除
 	 
 
-	 
+由于病毒破坏性很强后面具有破坏性的功能就不上传了，只上传了EXE文件。
+-	 
 	 
 :lemon:详情演示见[demo.mp4](https://github.com/Ascotbe/Hacker-program/blob/master/Encryption/demo.mp4)

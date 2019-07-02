@@ -1,7 +1,7 @@
 加密病毒(勒索
 =
      编译环境VS2019 X64
-	 
+	 运行环境VMware Windows 7 sp1
 	 
 
 	 
@@ -29,10 +29,11 @@
 	 14.自删除
 	 15.系统语言判断(在Encryption(a.exe添加判断是否是简体中文，是的话结束自己自删除
      16.判断是否在vm中(在Encryption(b.exe中写入
-	 预更新:1.判断是否在逆向工具中(ps：这个找了好多资料都没有找到有师傅懂的可以私聊我
+	 17.关机
+	 预更新:1.判断是否在逆向工具中(ps：tls反调试？？
 
 	 
 由于病毒破坏性很强后面具有破坏性的功能就不上传了，只上传了EXE文件。
 -	 
 	 
-:lemon:详情演示见[demo.mp4](https://github.com/Ascotbe/Hacker-program/blob/master/Encryption/demo.mp4)
+:lemon:前11个功能详情演示见[demo.mp4](https://github.com/Ascotbe/Hacker-program/blob/master/Encryption/demo.mp4)

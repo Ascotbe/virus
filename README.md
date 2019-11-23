@@ -18,14 +18,6 @@ Remote Control
 
 
 
-Scan Mionitor
--
-	  扫描指定网段监控是否存在弱口令
-	  
-详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/blob/master/SanMonitor/README.md) 
-
-
-
 Encryption
 -
 	  勒索病毒

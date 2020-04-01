@@ -44,7 +44,7 @@
 树莓派监控代码
 ```
 
-
+详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/blob/master/RaspberryPiBot/README.md)
 
 
 #### 免责声明:

@@ -1,16 +1,6 @@
 <img src="https://github.com/Ascotbe/Hacker-program/blob/master/hacker.jpg" width="1200" alt="Ascotb Hacker" />   
 
-[![Ascotb Hacker](https://img.shields.io/badge/Ascotbe-Hacker-brightgreen.svg?style=plastic&logo=github)](https://github.com/Ascotbe/Hacker-program/Keyboard%20Recorder)
-[![Ascotb Hexo](https://img.shields.io/badge/Ascotbe-Hexo-brightgreen.svg?style=plastic&logo=github)](https://ascotbe.github.io/)  
-
-#### Keyboard Recorder  
-
-```
-键盘记入程序 
-```
-
-
-详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/blob/master/Keyboard%20Recorder/README.md)  
+[![Ascotb Hacker](https://img.shields.io/badge/Ascotbe-virus-brightgreen.svg?style=plastic&logo=github)](https://github.com/Ascotbe/Hacker-program/Keyboard%20Recorder)
 
 #### Remote Control  
 

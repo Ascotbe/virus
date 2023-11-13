@@ -1,33 +1,3 @@
-<img src="https://github.com/Ascotbe/Hacker-program/blob/master/hacker.jpg" width="1200" alt="Ascotb Hacker" />   
-
-[![Ascotb Hacker](https://img.shields.io/badge/Ascotbe-virus-brightgreen.svg?style=plastic&logo=github)](https://github.com/Ascotbe/Hacker-program/Keyboard%20Recorder)
-
-#### Remote Control  
-
-```
-远程控制+注册表开机启动+下载某程序
-```
-
-
-详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/tree/master/Remote%20Control/README.md)  
-
-#### Encryption
-
-```
-勒索病毒
-```
-
-
-详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/blob/master/Encryption/README.md) 
-
-#### ShellCode
-
-```
-免杀代码
-```
-
-详情介绍参考[READNE.md](https://github.com/Ascotbe/Hacker-program/blob/master/ShellCode/README.md) 
-
 #### RaspberryPiBot
 
 ```
